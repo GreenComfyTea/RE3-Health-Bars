@@ -133,26 +133,26 @@
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1+).
 
 # How to install:
-1. Install [REFramework](https://nexusmods.com/residentevil32020/mods/882);
-2. Install [REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922);
+1. Install **[REFramework](https://nexusmods.com/residentevil32020/mods/882)**;
+2. Install **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
 >**:pushpin: Windows:** Works normally.
 
->**:pushpin: Linux:** Latest Experimental Proton seems to have it working normally as well (https://github.com/cursey/reframework-d2d/issues/5).
+>**:pushpin: Linux:** Latest Experimental Proton seems to have it working normally as well (**[https://github.com/cursey/reframework-d2d/issues/5](https://github.com/cursey/reframework-d2d/issues/5)**).
 
->**:pushpin: Steam Deck:** I've seen people getting it working but I don't have the exact instructions. You will have to figure it out yourself and/or search the nexus pages for information ([REFramework](https://nexusmods.com/residentevil32020/mods/882), [REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)).
+>**:pushpin: Steam Deck:** I've seen people getting it working but I don't have the exact instructions. You will have to figure it out yourself and/or search the nexus pages for information (**[REFramework](https://nexusmods.com/residentevil32020/mods/882)**, **[REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)**).
 
 
 3. Download the mod:
-    * Official release can be downloaded from [Nexus Mods](https://nexusmods.com/residentevil32020/mods/923);
-    * Nightly builds are available in [this repo](https://github.com/GreenComfyTea/RE3-Health-Bars) and can contain broken functionality, debugging info on screen, bugs and might require the latest [nightly build](https://github.com/praydog/REFramework-nightly/releases) of [REFramework](https://nexusmods.com/residentevil32020/mods/882). Use with caution!
+    * Official release can be downloaded from **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**;
+    * Nightly builds are available in **[this repo](https://github.com/GreenComfyTea/RE3-Health-Bars)** and can contain broken functionality, debugging info on screen, bugs and might require the latest **[nightly build](https://github.com/praydog/REFramework-nightly/releases)** of **[REFramework](https://nexusmods.com/residentevil32020/mods/882)**. Use with caution!
 4. Extract the mod from the archive and copy it into Resident Evil 3 folder. Final path should look like this: `/RE3/reframework/`  
 
 > There should be three folders in the REFframework folder: `autorun`, `data` and `font`.
 
 # How to compile?
 **Prerequisites:**
-+ [lua-amalg](https://github.com/siffiejoe/lua-amalg)    
-+ [Lua 5.4+](https://lua.org/)  
++ **[lua-amalg](https://github.com/siffiejoe/lua-amalg)**   
++ **[Lua 5.4+](https://lua.org/)**  
 
 **Example compilation command (replace the paths to `lua54.exe`, `amalg.lua` and `Health_Bars.lua` to yours):**
 
