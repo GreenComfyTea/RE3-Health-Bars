@@ -151,8 +151,8 @@
 
 # How to compile?
 **Prerequisites:**
-+ **[lua-amalg](https://github.com/siffiejoe/lua-amalg)**   
-+ **[Lua 5.4+](https://lua.org/)**  
++ **[lua-amalg](https://github.com/siffiejoe/lua-amalg)**;   
++ **[Lua 5.4+](https://lua.org/)**.  
 
 **Example compilation command (replace the paths to `lua54.exe`, `amalg.lua` and `Health_Bars.lua` to yours):**
 
