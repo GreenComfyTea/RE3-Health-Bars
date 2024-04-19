@@ -133,25 +133,25 @@
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1或者更高版本).
 
 # 如何安装？:
-1. 先安装[REFramework](https://nexusmods.com/residentevil32020/mods/882);
-2. 再安装 [REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922);
+1. 先安装**[REFramework](https://nexusmods.com/residentevil32020/mods/882)**;
+2. 再安装 **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
 >**:pushpin: Windows:** 工作正常。  
   
 >**:pushpin: Linux:** 最新版本的Proton(实验版本，Experimental。译者没有Steam Deck或者带独显的Linux，仅供参考。)似乎也能使mod正常工作 (https://github.com/cursey/reframework-d2d/issues/5)。
   
->**:pushpin: Steam Deck:** 我见到有人报告mod可以正常工作，但没有确切信息来说明是否可靠。 您可能需要自行在nexus查找资料和解决方案来确保mod正常运行。([REFramework](https://nexusmods.com/residentevil32020/mods/882), [REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)).
+>**:pushpin: Steam Deck:** 我见到有人报告mod可以正常工作，但没有确切信息来说明是否可靠。 您可能需要自行在nexus查找资料和解决方案来确保mod正常运行。(**[REFramework](https://nexusmods.com/residentevil32020/mods/882)**, **[REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)**).
    
 
 3. 下载这些mod:
-    * 官方所发布的下载地址是 [Nexus Mods](https://nexusmods.com/residentevil32020/mods/923);
-    * 每晚构建版本可以在[此存储库](https://github.com/GreenComfyTea/RE3-Health-Bars)中获取，可能包含错误功能、屏幕上的调试信息、错误和可能需要最新的[每晚构建版本](https://github.com/praydog/REFramework-nightly/releases)的[REFramework](https://nexusmods.com/residentevil32020/mods/882)。请谨慎使用！  
+    * 官方所发布的下载地址是 **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**;
+    * 每晚构建版本可以在 [此存储库](https://github.com/GreenComfyTea/RE3-Health-Bars)中获取，可能包含错误功能、屏幕上的调试信息、错误和可能需要最新的[每晚构建版本](https://github.com/praydog/REFramework-nightly/releases)的[REFramework](https://nexusmods.com/residentevil32020/mods/882)。请谨慎使用！  
 4. 从压缩包中解压mod文件(解压的后你应该得到**reframework**文件夹)，并将其复制进**RESIDENT EVIL 3 BIOHAZARD RE3**游戏根目录中。最终路径应该如下所示：`/RE3/reframework/`。
    > reframework文件夹目录下应该有 `autorun`,`data`,`font` 这三个文件夹。
   
 # 如何编译?
 **前置软件:**
-+ [lua-amalg](https://github.com/siffiejoe/lua-amalg)    
-+ [Lua 5.4+](https://lua.org/)  
++ **[lua-amalg](https://github.com/siffiejoe/lua-amalg)**;  
++ **[Lua 5.4+](https://lua.org/)**.  
 使用这些软件来编译脚本。  
   
 **编译命令示例:(注意：将"lua54.exe”、“amalg.lua”和“Health_Bars.lua"的路径替换为您的路径):**  
