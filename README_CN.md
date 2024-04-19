@@ -39,11 +39,11 @@
 		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/yes/2024?logo=tools" />
 	</a>
 	<br>
-	<a href="https://www.nexusmods.com/residentevil32020/mods/882">
+	<a href="https://nexusmods.com/residentevil32020/mods/882">
 		<img alt="REFramework Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20v.1579%2B-green?logo=package-dependencies" />
 	</a>
    	<a href="https://nexusmods.com/residentevilvillage/mods/400">
-		<img alt="In-Game Menu Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20Direct2D%20v0.4.0%2B-yellow?logo=package-dependencies" />
+		<img alt="REFramework Direct2D Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20Direct2D%20v1.0.1%2B-yellow?logo=package-dependencies" />
 	</a>
 	<br>
 	<br>
@@ -95,8 +95,8 @@
 	</a>
 	<br>
 	<br>
-	<a href="https://nexusmods.com/residentevilvillage/mods/401">
-		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https://nexusmods.com/residentevilvillage/mods/401" />
+	<a href="https://nexusmods.com/residentevil32020/mods/923">
+		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https://nexusmods.com/residentevil32020/mods/923" />
 	</a>
 	<a href="https://github.com/GreenComfyTea?tab=followers">
 		<img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/GreenComfyTea?logo=people" />
@@ -126,25 +126,25 @@
 </p>
 
 # 原始下载链接  
-* **[Nexus Mods](https://nexusmods.com/residentevilvillage/mods/401)**  
+* **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**  
 
 # 模组前置需求  
-1. [REFramework](https://www.nexusmods.com/residentevil32020/mods/882) (v.1579或者更高版本);
-2. [REFramework Direct2D](https://nexusmods.com/residentevilvillage/mods/400) (v0.4.0或者更高版本).
+1. [REFramework](https://nexusmods.com/residentevil32020/mods/882) (v.1579或者更高版本);
+2. [REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922) (v1.0.1或者更高版本).
 
 # 如何安装？:
-1. 先安装[REFramework](https://www.nexusmods.com/residentevil32020/mods/882);
-2. 再安装 [REFramework Direct2D](https://nexusmods.com/residentevilvillage/mods/400);
+1. 先安装[REFramework](https://nexusmods.com/residentevil32020/mods/882);
+2. 再安装 [REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922);
 >**:pushpin: Windows:** 工作正常。  
   
 >**:pushpin: Linux:** 最新版本的Proton(实验版本，Experimental。译者没有Steam Deck或者带独显的Linux，仅供参考。)似乎也能使mod正常工作 (https://github.com/cursey/reframework-d2d/issues/5)。
   
->**:pushpin: Steam Deck:** 我见到有人报告mod可以正常工作，但没有确切信息来说明是否可靠。 您可能需要自行在nexus查找资料和解决方案来确保mod正常运行。([REFramework](https://www.nexusmods.com/residentevil32020/mods/882), [REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)).
+>**:pushpin: Steam Deck:** 我见到有人报告mod可以正常工作，但没有确切信息来说明是否可靠。 您可能需要自行在nexus查找资料和解决方案来确保mod正常运行。([REFramework](https://nexusmods.com/residentevil32020/mods/882), [REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)).
    
 
 3. 下载这些mod:
-    * 官方所发布的下载地址是 [Nexus Mods](https://www.nexusmods.com/residentevilvillage/mods/401);
-    * 每晚构建版本可以在[此存储库](https://github.com/GreenComfyTea/RE3-Health-Bars)中获取，可能包含错误功能、屏幕上的调试信息、错误和可能需要最新的[每晚构建版本](https://github.com/praydog/REFramework-nightly/releases)的[REFramework](https://www.nexusmods.com/residentevil32020/mods/882)。请谨慎使用！  
+    * 官方所发布的下载地址是 [Nexus Mods](https://nexusmods.com/residentevil32020/mods/923);
+    * 每晚构建版本可以在[此存储库](https://github.com/GreenComfyTea/RE3-Health-Bars)中获取，可能包含错误功能、屏幕上的调试信息、错误和可能需要最新的[每晚构建版本](https://github.com/praydog/REFramework-nightly/releases)的[REFramework](https://nexusmods.com/residentevil32020/mods/882)。请谨慎使用！  
 4. 从压缩包中解压mod文件(解压的后你应该得到**reframework**文件夹)，并将其复制进**RESIDENT EVIL 3 BIOHAZARD RE3**游戏根目录中。最终路径应该如下所示：`/RE3/reframework/`。
    > reframework文件夹目录下应该有 `autorun`,`data`,`font` 这三个文件夹。
   
