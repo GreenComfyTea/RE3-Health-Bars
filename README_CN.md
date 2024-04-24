@@ -40,7 +40,7 @@
 	</a>
 	<br>
 	<a href="https://nexusmods.com/residentevil32020/mods/882">
-		<img alt="REFramework Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20v.1579%2B-green?logo=package-dependencies" />
+		<img alt="REFramework Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20v1.5.4%2B-green?logo=package-dependencies" />
 	</a>
    	<a href="https://nexusmods.com/residentevilvillage/mods/400">
 		<img alt="REFramework Direct2D Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20Direct2D%20v1.0.1%2B-yellow?logo=package-dependencies" />
@@ -129,7 +129,7 @@
 * **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**  
 
 # 模组前置需求  
-1. **[REFramework](https://nexusmods.com/residentevil32020/mods/882)** (v1.579或者更高版本);
+1. **[REFramework](https://nexusmods.com/residentevil32020/mods/882)** ([Nightly](https://github.com/praydog/REFramework-nightly/releases) v1.5.4或者更高版本);
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1或者更高版本).
 
 # 如何安装？:
