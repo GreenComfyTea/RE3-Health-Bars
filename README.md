@@ -129,11 +129,11 @@
 * **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**
 
 # Requirements
-1. **[REFramework](https://nexusmods.com/residentevil32020/mods/882)** ([Nightly](https://github.com/praydog/REFramework-nightly/releases) v1.5.4+);
+1. **[REFramework](https://nexusmods.com/residentevil32020/mods/882)** (**[Nightly](https://github.com/praydog/REFramework-nightly/releases)** v1.5.4+);
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1+).
 
 # How to install:
-1. Install **[REFramework](https://nexusmods.com/residentevil32020/mods/882)**;
+1. Install **[REFramework](https://github.com/praydog/REFramework-nightly/releases)**;
 2. Install **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
 >**:pushpin: Windows:** Works normally.
 
