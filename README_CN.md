@@ -121,7 +121,7 @@
 
 <p align="center">
 	<a>
-		<img align="center" src="https://user-images.githubusercontent.com/30152047/226180919-2ddaacc2-f8c7-4688-8ec0-1958da87f91a.png" />
+		<img align="center" src="https://github.com/GreenComfyTea/RE3-Health-Bars/assets/30152047/5e40b8cb-e220-4e60-884f-d4242e8d68cd" />
 	</a>
 </p>
 
@@ -133,8 +133,8 @@
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1或者更高版本).
 
 # 如何安装？:
-1. 先安装 **[REFramework](https://github.com/praydog/REFramework-nightly/releases)**;
-2. 再安装 **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
+1. 先安装[REFramework](https://github.com/praydog/REFramework-nightly/releases);
+2. 再安装 [REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922);
 >**:pushpin: Windows:** 工作正常。  
   
 >**:pushpin: Linux:** 最新版本的Proton(实验版本，Experimental。译者没有Steam Deck或者带独显的Linux，仅供参考。)似乎也能使mod正常工作 (https://github.com/cursey/reframework-d2d/issues/5)。
