@@ -1,7 +1,7 @@
 <p align="center">
 	<h2 align="center"><b>为生化危机3设计的"生命值(血条)"模组 简体中文翻译版</b></h2>
 	<p align="center">
-		<a href="README.md">English</a> | <b>简体中文</b>
+		<b><a href="README.md">English</a></b> | <b>简体中文</b>
 	</p>
 	<p align="center">为生化危机3设计的"生命值(血条)"模组。</p>
 </p>
@@ -126,24 +126,24 @@
 </p>
 
 # 原始下载链接  
-* **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**  
+* **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**.  
 
 # 模组前置需求  
-1. **[REFramework](https://nexusmods.com/residentevil32020/mods/882)** ([Nightly](https://github.com/praydog/REFramework-nightly/releases) v1.5.4或者更高版本);
+1. **[REFramework](https://nexusmods.com/residentevil32020/mods/882)** (**[Nightly](https://github.com/praydog/REFramework-nightly/releases)** v1.5.4或者更高版本);
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1或者更高版本).
 
 # 如何安装？:
-1. 先安装**[REFramework](https://nexusmods.com/residentevil32020/mods/882)**;
+1. 先安装**[REFramework](https://github.com/praydog/REFramework-nightly/releases)**;
 2. 再安装 **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
 >**:pushpin: Windows:** 工作正常。  
   
 >**:pushpin: Linux:** 最新版本的Proton(实验版本，Experimental。译者没有Steam Deck或者带独显的Linux，仅供参考。)似乎也能使mod正常工作 (https://github.com/cursey/reframework-d2d/issues/5)。
   
->**:pushpin: Steam Deck:** 我见到有人报告mod可以正常工作，但没有确切信息来说明是否可靠。 您可能需要自行在nexus查找资料和解决方案来确保mod正常运行。(**[REFramework](https://nexusmods.com/residentevil32020/mods/882)**, **[REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)**).
+>**:pushpin: Steam Deck:** 我见到有人报告mod可以正常工作，但没有确切信息来说明是否可靠。 您可能需要自行在nexus查找资料和解决方案来确保mod正常运行。([REFramework](https://nexusmods.com/residentevil32020/mods/882), [REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)).
    
 
 3. 下载这些mod:
-    * 官方所发布的下载地址是 **[Nexus Mods](https://nexusmods.com/residentevil32020/mods/923)**;
+    * 官方所发布的下载地址是 [Nexus Mods](https://nexusmods.com/residentevil32020/mods/923);
     * 每晚构建版本可以在 [此存储库](https://github.com/GreenComfyTea/RE3-Health-Bars)中获取，可能包含错误功能、屏幕上的调试信息、错误和可能需要最新的[每晚构建版本](https://github.com/praydog/REFramework-nightly/releases)的[REFramework](https://nexusmods.com/residentevil32020/mods/882)。请谨慎使用！  
 4. 从压缩包中解压mod文件(解压的后你应该得到**reframework**文件夹)，并将其复制进**RESIDENT EVIL 3 BIOHAZARD RE3**游戏根目录中。最终路径应该如下所示：`/RE3/reframework/`。
    > reframework文件夹目录下应该有 `autorun`,`data`,`font` 这三个文件夹。
