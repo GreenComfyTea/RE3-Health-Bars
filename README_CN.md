@@ -133,7 +133,7 @@
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1或者更高版本).
 
 # 如何安装？:
-1. 先安装**[REFramework](https://github.com/praydog/REFramework-nightly/releases)**;
+1. 先安装 **[REFramework](https://github.com/praydog/REFramework-nightly/releases)**;
 2. 再安装 **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
 >**:pushpin: Windows:** 工作正常。  
   
