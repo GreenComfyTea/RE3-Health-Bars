@@ -221,6 +221,11 @@ function this.update_head_joint(enemy)
 end
 
 function this.update_last_reset_time(enemy)
+	if enemy == nil then
+		error_handler.report("enemy_handler.update_last_reset_time", "No Enemy");
+		return;
+	end
+
 	enemy.last_reset_time = time.total_elapsed_script_seconds;
 end
 
